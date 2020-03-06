@@ -1,15 +1,13 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *Hola Mundo
  */
 package calculadora;
 
 /**
  *
  * @author redes
- * @version version 1.0
- * @since 28/02/2020
+ * @version version 2.0 github
+ * @since 06/03/2020
  * 
  */
 public class Calculadora {
