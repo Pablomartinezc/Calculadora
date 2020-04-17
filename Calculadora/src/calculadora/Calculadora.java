@@ -6,8 +6,8 @@ package calculadora;
 /**
  *
  * @author redes
- * @version version 2.0 github
- * @since 06/03/2020
+ * @version version 3.0 github
+ * @since 17/04/2020
  * 
  */
 public class Calculadora {
