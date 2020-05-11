@@ -6,7 +6,7 @@ package calculadora;
 /**
  *
  * @author redes
- * @version version 3.0 github
+ * @version version 4.0 github
  * @since 11/05/2020
  * 
  */
